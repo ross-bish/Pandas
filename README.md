@@ -1,4 +1,8 @@
 # Pandas 🐼
+
+![image](https://github.com/user-attachments/assets/b59b5f61-99f1-4055-9739-961aeccec773)
+
+
 ### What is Pandas?
 
 **Pandas** is a powerful open-source Python library used for data manipulation and analysis. It provides easy-to-use data structures like **Series** and **DataFrames** that simplify handling structured data, making it an essential tool for data scientists, analysts, and Python programmers.
