@@ -1,2 +1,2 @@
-# Pandas
+# Pandas 🐼
 Introduction to Pandas
